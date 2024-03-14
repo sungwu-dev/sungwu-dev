@@ -2,7 +2,7 @@
 
 ### `🚀I am`
 >🇰🇷**SungwooHong**
->- 🏛in the 2nd year of University
+>- 🏛in the 3rd year of University
 >- ⚙️majoring in Computer Science
 
 ### `📘Learning`
@@ -13,6 +13,6 @@
 >- 🌱 
 -->
 ### `📱Contact`
->- 📧[e-mail](sungwu.dev@gmail.com "wlsdhkd8040@gmail.com")
+>- 📧[e-mail](tjddn.dev@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungwu-dev)](https://github.com/sungwu-dev/github-readme-stats)
