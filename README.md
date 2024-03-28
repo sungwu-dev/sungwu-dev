@@ -6,7 +6,12 @@
 >- ⚙️majoring in Computer Science
 
 ### `📘Learning`
-> {} : not yet
+> C
+> Python
+> JAVA
+> AI
+> JSP&Servlet
+> DB(mySQL&NOSQL)
 
 <!--
 ### `🚀Projects`
